@@ -1,0 +1,1025 @@
+An Exception occoured at: 2022-01-17 12:25:00pm
+                from function: Database.php : isExistUserByEmail
+                Information:
+                SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+
+
+
+An Exception occoured at: 2022-01-17 12:25:51pm
+                from function: Database.php : isExistUserByEmail
+                Information:
+                SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+
+
+
+An Exception occoured at: 2022-01-19 12:44:57pm
+                from function: Database.php : registerUserWithEncryptedPassword
+                Information:
+                SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+
+
+
+An Exception occoured at: 2022-01-19 03:40:36pm
+                from function: Database.php : addBook
+                Information:
+                SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+
+
+
+An Exception occoured at: 2022-01-19 04:19:23pm
+                from function: Database.php : isExistUserByEmail
+                Information:
+                no connectio to database could be established
+
+
+
+An Exception occoured at: 2022-01-19 04:58:27pm
+                from function: Database.php : addBook
+                Information:
+                SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'New Moon-Stephenie Meyer' for key 'PRIMARY'
+
+
+
+An Exception occoured at: 2022-01-19 04:58:29pm
+                from function: Database.php : addBook
+                Information:
+                SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'New Moon-Stephenie Meyer' for key 'PRIMARY'
+
+
+
+An Exception occoured at: 2022-01-19 04:58:35pm
+                from function: Database.php : addBook
+                Information:
+                SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'New Moon-Stephenie Meyer' for key 'PRIMARY'
+
+
+
+An Exception occoured at: 2022-01-19 05:00:35pm
+                from function: Database.php : addBook
+                Information:
+                SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Deception Point-Dan Brown' for key 'PRIMARY'
+
+
+
+An Exception occoured at: 2022-01-19 05:05:39pm
+                from function: Database.php : addBook
+                Information:
+                SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'gfdgfdgfd-gfdgfdgfd' for key 'PRIMARY'
+
+
+
+An Exception occoured at: 2022-01-19 05:13:51pm
+                from function: Database.php : addBook
+                Information:
+                SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'gfsdgfdgfd-Denis sobolevski' for key 'PRIMARY'
+
+
+
+An Exception occoured at: 2022-01-19 05:13:59pm
+                from function: Database.php : addBook
+                Information:
+                SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'gfsdgfdgfd-Denis sobolevski' for key 'PRIMARY'
+
+
+
+An Exception occoured at: 2022-01-19 05:14:43pm
+                from function: Database.php : addBook
+                Information:
+                SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'gfsdgfdgfd-Denis sobolevski' for key 'PRIMARY'
+
+
+
+An Exception occoured at: 2022-01-19 05:24:42pm
+                from function: Database.php : addBook
+                Information:
+                SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'gfsdgfdgfd-Denis sobolevski' for key 'PRIMARY'
+
+
+
+An Exception occoured at: 2022-01-19 05:25:35pm
+                from function: Database.php : addBook
+                Information:
+                SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'gfsdgfdgfd-Denis sobolevski' for key 'PRIMARY'
+
+
+
+An Exception occoured at: 2022-01-19 05:25:51pm
+                from function: Database.php : addBook
+                Information:
+                SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'gfsdgfdgfd-Denis sobolevski' for key 'PRIMARY'
+
+
+
+An Exception occoured at: 2022-01-19 05:27:01pm
+                from function: Database.php : addBook
+                Information:
+                SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'gfsdgfdgfd-Denis sobolevski' for key 'PRIMARY'
+
+
+
+An Exception occoured at: 2022-01-19 05:28:06pm
+                from function: Database.php : addBook
+                Information:
+                SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'gfsdgfdgfd-Denis sobolevski' for key 'PRIMARY'
+
+
+
+An Exception occoured at: 2022-01-19 05:32:24pm
+                from function: Database.php : addBook
+                Information:
+                SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'gfsdgfdgfd-Denis sobolevski' for key 'PRIMARY'
+
+
+
+An Exception occoured at: 2022-01-19 05:45:58pm
+                from function: Database.php : addBook
+                Information:
+                SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'gfsdgfdgfd-Denis sobolevski' for key 'PRIMARY'
+
+
+
+An Exception occoured at: 2022-01-19 05:46:13pm
+                from function: Database.php : addBook
+                Information:
+                SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'gfsdgfdgfd-Denis sobolevski' for key 'PRIMARY'
+
+
+
+An Exception occoured at: 2022-01-19 05:46:26pm
+                from function: Database.php : addBook
+                Information:
+                SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'gfsdgfdgfd-Denis sobolevski' for key 'PRIMARY'
+
+
+
+An Exception occoured at: 2022-01-19 05:47:44pm
+                from function: Database.php : addBook
+                Information:
+                SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'gfsdgfdgfd-Denis sobolevski' for key 'PRIMARY'
+
+
+
+An Exception occoured at: 2022-01-19 05:47:50pm
+                from function: Database.php : addBook
+                Information:
+                SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'gfsdgfdgfd-Denis sobolevski' for key 'PRIMARY'
+
+
+
+An Exception occoured at: 2022-01-19 05:47:55pm
+                from function: Database.php : addBook
+                Information:
+                SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'gfsdgfdgfd-Denis sobolevski' for key 'PRIMARY'
+
+
+
+An Exception occoured at: 2022-01-19 05:48:19pm
+                from function: Database.php : addBook
+                Information:
+                SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'gfsdgfdgfd-Denis sobolevski' for key 'PRIMARY'
+
+
+
+An Exception occoured at: 2022-01-19 05:48:23pm
+                from function: Database.php : addBook
+                Information:
+                SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'gfsdgfdgfd-Denis sobolevski' for key 'PRIMARY'
+
+
+
+An Exception occoured at: 2022-01-19 05:48:37pm
+                from function: Database.php : addBook
+                Information:
+                SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'gfsdgfdgfd fd-Denis sobolevski' for key 'PRIMARY'
+
+
+
+An Exception occoured at: 2022-01-19 05:48:41pm
+                from function: Database.php : addBook
+                Information:
+                SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'gfsdgfdgfd fd-Denis sobolevski' for key 'PRIMARY'
+
+
+
+An Exception occoured at: 2022-01-19 05:48:44pm
+                from function: Database.php : addBook
+                Information:
+                SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'gfsdgfdgfd fd-Denis sobolevski' for key 'PRIMARY'
+
+
+
+An Exception occoured at: 2022-01-19 06:23:25pm
+                from function: Database.php : addBook
+                Information:
+                SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'gfsdgfdgfd-Denis sobolevski' for key 'PRIMARY'
+
+
+
+An Exception occoured at: 2022-01-19 06:23:31pm
+                from function: Database.php : addBook
+                Information:
+                SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'gfsdgfdgfd fd-Denis sobolevski' for key 'PRIMARY'
+
+
+
+An Exception occoured at: 2022-01-19 06:25:08pm
+                from function: Database.php : addBook
+                Information:
+                SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'gfdgfdgfd-Denis sobolevski' for key 'PRIMARY'
+
+
+
+An Exception occoured at: 2022-01-19 06:25:25pm
+                from function: Database.php : addBook
+                Information:
+                SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'gfsdgfdgfd-dfsfd' for key 'PRIMARY'
+
+
+
+An Exception occoured at: 2022-01-20 12:03:12am
+                from function: Database.php : connect
+                Information:
+                SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+
+
+
+An Exception occoured at: 2022-01-20 12:04:06am
+                from function: Database.php : connect
+                Information:
+                SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+
+
+
+An Exception occoured at: 2022-01-20 12:04:12am
+                from function: Database.php : connect
+                Information:
+                SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+
+
+
+An Exception occoured at: 2022-01-20 12:04:16am
+                from function: Database.php : connect
+                Information:
+                SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+
+
+
+An Exception occoured at: 2022-01-20 12:05:28am
+                from function: Database.php : connect
+                Information:
+                SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+
+
+
+An Exception occoured at: 2022-01-20 12:06:36am
+                from function: Database.php : connect
+                Information:
+                SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+
+
+
+An Exception occoured at: 2022-01-20 12:07:30am
+                from function: Database.php : connect
+                Information:
+                SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+
+
+
+An Exception occoured at: 2022-01-20 12:07:48am
+                from function: Database.php : connect
+                Information:
+                SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+
+
+
+An Exception occoured at: 2022-01-20 12:07:52am
+                from function: Database.php : connect
+                Information:
+                SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+
+
+
+An Exception occoured at: 2022-01-20 12:08:02am
+                from function: Database.php : connect
+                Information:
+                SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+
+
+
+An Exception occoured at: 2022-01-20 12:08:10am
+                from function: Database.php : connect
+                Information:
+                SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+
+
+
+An Exception occoured at: 2022-01-20 12:15:28am
+                from function: Database.php : connect
+                Information:
+                SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+
+
+
+An Exception occoured at: 2022-01-20 12:15:32am
+                from function: Database.php : connect
+                Information:
+                SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+
+
+
+An Exception occoured at: 2022-01-24 01:40:29pm
+                from function: Database.php : connect
+                Information:
+                SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+
+
+
+An Exception occoured at: 2022-01-24 02:05:36pm
+                from function: Database.php : connect
+                Information:
+                SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+
+
+
+An Exception occoured at: 2022-01-24 03:13:39pm
+                from function: Database.php : isExistBook
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''book'
+                                                    WHERE bookName = ...' at line 2
+
+
+
+An Exception occoured at: 2022-01-24 03:14:07pm
+                from function: Database.php : isExistBook
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''book'
+                                                    WHERE bookName = ...' at line 2
+
+
+
+An Exception occoured at: 2022-01-24 03:14:07pm
+                from function: Database.php : addBook
+                Information:
+                SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'A Tale of Two Cities-Charles Dickens' for key 'PRIMARY'
+
+
+
+An Exception occoured at: 2022-01-24 03:15:37pm
+                from function: Database.php : isExistBook
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''book'
+                                                    WHERE bookName = ...' at line 2
+
+
+
+An Exception occoured at: 2022-01-24 03:15:37pm
+                from function: Database.php : addBook
+                Information:
+                SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'A Tale of Two Cities-Charles Dickens' for key 'PRIMARY'
+
+
+
+An Exception occoured at: 2022-01-24 03:20:46pm
+                from function: Database.php : isExistBook
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''book'
+                                                    WHERE 'book'.book...' at line 2
+
+
+
+An Exception occoured at: 2022-01-24 03:20:46pm
+                from function: Database.php : addBook
+                Information:
+                SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'A Tale of Two Cities-Charles Dickens' for key 'PRIMARY'
+
+
+
+An Exception occoured at: 2022-01-24 03:20:52pm
+                from function: Database.php : isExistBook
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''book'
+                                                    WHERE 'book'.book...' at line 2
+
+
+
+An Exception occoured at: 2022-01-24 03:20:52pm
+                from function: Database.php : addBook
+                Information:
+                SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'A Tale of Two Cities-Charles Dickens' for key 'PRIMARY'
+
+
+
+An Exception occoured at: 2022-01-24 03:41:50pm
+                from function: Database.php : borrowBook
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 4
+
+
+
+An Exception occoured at: 2022-01-24 03:41:53pm
+                from function: Database.php : borrowBook
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 4
+
+
+
+An Exception occoured at: 2022-01-24 03:41:56pm
+                from function: Database.php : borrowBook
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 4
+
+
+
+An Exception occoured at: 2022-01-24 03:41:59pm
+                from function: Database.php : borrowBook
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 4
+
+
+
+An Exception occoured at: 2022-01-24 03:42:47pm
+                from function: Database.php : borrowBook
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 4
+
+
+
+An Exception occoured at: 2022-01-24 03:42:52pm
+                from function: Database.php : borrowBook
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 4
+
+
+
+An Exception occoured at: 2022-01-24 03:43:27pm
+                from function: Database.php : borrowBook
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 4
+
+
+
+An Exception occoured at: 2022-01-24 03:43:30pm
+                from function: Database.php : borrowBook
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 4
+
+
+
+An Exception occoured at: 2022-01-24 03:44:24pm
+                from function: Database.php : borrowBook
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 4
+
+
+
+An Exception occoured at: 2022-01-24 03:44:26pm
+                from function: Database.php : borrowBook
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 4
+
+
+
+An Exception occoured at: 2022-01-24 03:44:28pm
+                from function: Database.php : borrowBook
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 4
+
+
+
+An Exception occoured at: 2022-01-24 03:44:41pm
+                from function: Database.php : borrowBook
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 4
+
+
+
+An Exception occoured at: 2022-01-24 03:44:43pm
+                from function: Database.php : borrowBook
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 4
+
+
+
+An Exception occoured at: 2022-01-24 03:45:28pm
+                from function: Database.php : borrowBook
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 4
+
+
+
+An Exception occoured at: 2022-01-24 03:45:30pm
+                from function: Database.php : borrowBook
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 4
+
+
+
+An Exception occoured at: 2022-01-24 03:45:31pm
+                from function: Database.php : borrowBook
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 4
+
+
+
+An Exception occoured at: 2022-01-24 03:45:32pm
+                from function: Database.php : borrowBook
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 4
+
+
+
+An Exception occoured at: 2022-01-24 03:45:33pm
+                from function: Database.php : borrowBook
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 4
+
+
+
+An Exception occoured at: 2022-01-24 03:46:11pm
+                from function: Database.php : borrowBook
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 4
+
+
+
+An Exception occoured at: 2022-01-24 03:46:12pm
+                from function: Database.php : borrowBook
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 4
+
+
+
+An Exception occoured at: 2022-01-24 03:46:20pm
+                from function: Database.php : borrowBook
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 4
+
+
+
+An Exception occoured at: 2022-01-24 03:46:21pm
+                from function: Database.php : borrowBook
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 4
+
+
+
+An Exception occoured at: 2022-01-24 03:46:34pm
+                from function: Database.php : borrowBook
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 4
+
+
+
+An Exception occoured at: 2022-01-24 03:46:35pm
+                from function: Database.php : borrowBook
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 4
+
+
+
+An Exception occoured at: 2022-01-24 03:46:36pm
+                from function: Database.php : borrowBook
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 4
+
+
+
+An Exception occoured at: 2022-01-24 03:46:46pm
+                from function: Database.php : borrowBook
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 4
+
+
+
+An Exception occoured at: 2022-01-24 03:46:47pm
+                from function: Database.php : borrowBook
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 4
+
+
+
+An Exception occoured at: 2022-01-24 04:00:37pm
+                from function: Database.php : getAllCurrentUserBorrowedBooks
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@test.com' at line 3
+
+
+
+An Exception occoured at: 2022-01-24 04:00:39pm
+                from function: Database.php : getAllCurrentUserBorrowedBooks
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@test.com' at line 3
+
+
+
+An Exception occoured at: 2022-01-24 04:00:47pm
+                from function: Database.php : getAllCurrentUserBorrowedBooks
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@test.com' at line 3
+
+
+
+An Exception occoured at: 2022-01-24 04:02:35pm
+                from function: Database.php : getAllCurrentUserBorrowedBooks
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@test.com' at line 3
+
+
+
+An Exception occoured at: 2022-01-24 04:03:02pm
+                from function: Database.php : getAllCurrentUserBorrowedBooks
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@test.com' at line 3
+
+
+
+An Exception occoured at: 2022-01-24 04:03:25pm
+                from function: Database.php : getAllCurrentUserBorrowedBooks
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@test.com' at line 3
+
+
+
+An Exception occoured at: 2022-01-24 04:04:02pm
+                from function: Database.php : getAllCurrentUserBorrowedBooks
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@test.com' at line 3
+
+
+
+An Exception occoured at: 2022-01-24 04:07:40pm
+                from function: Database.php : getAllCurrentUserBorrowedBooks
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@test.com
+                     AND book.bookName = user_book.bookName
+     ...' at line 3
+
+
+
+An Exception occoured at: 2022-01-24 04:07:42pm
+                from function: Database.php : getAllCurrentUserBorrowedBooks
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@test.com
+                     AND book.bookName = user_book.bookName
+     ...' at line 3
+
+
+
+An Exception occoured at: 2022-01-24 04:08:06pm
+                from function: Database.php : getAllCurrentUserBorrowedBooks
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@test.com
+                     AND book.bookName = user_book.bookName
+     ...' at line 3
+
+
+
+An Exception occoured at: 2022-01-24 04:08:10pm
+                from function: Database.php : getAllCurrentUserBorrowedBooks
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@test.com
+                     AND book.bookName = user_book.bookName
+     ...' at line 3
+
+
+
+An Exception occoured at: 2022-01-24 04:10:30pm
+                from function: Database.php : getAllCurrentUserBorrowedBooks
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@test.com
+                     AND book.bookName = user_book.bookName
+     ...' at line 3
+
+
+
+An Exception occoured at: 2022-01-24 04:10:32pm
+                from function: Database.php : getAllCurrentUserBorrowedBooks
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@test.com
+                     AND book.bookName = user_book.bookName
+     ...' at line 3
+
+
+
+An Exception occoured at: 2022-01-24 04:17:22pm
+                from function: Database.php : getAllCurrentUserBorrowedBooks
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@test.com' at line 8
+
+
+
+An Exception occoured at: 2022-01-24 04:17:27pm
+                from function: Database.php : getAllCurrentUserBorrowedBooks
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@test.com' at line 8
+
+
+
+An Exception occoured at: 2022-01-24 04:18:21pm
+                from function: Database.php : getAllCurrentUserBorrowedBooks
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@test.com' at line 8
+
+
+
+An Exception occoured at: 2022-01-24 04:18:23pm
+                from function: Database.php : getAllCurrentUserBorrowedBooks
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@test.com' at line 8
+
+
+
+An Exception occoured at: 2022-01-24 04:18:26pm
+                from function: Database.php : getAllCurrentUserBorrowedBooks
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@test.com' at line 8
+
+
+
+An Exception occoured at: 2022-01-24 04:19:50pm
+                from function: Database.php : getAllCurrentUserBorrowedBooks
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@test.com' at line 3
+
+
+
+An Exception occoured at: 2022-01-24 04:19:52pm
+                from function: Database.php : getAllCurrentUserBorrowedBooks
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@test.com' at line 3
+
+
+
+An Exception occoured at: 2022-01-24 04:20:25pm
+                from function: Database.php : getAllCurrentUserBorrowedBooks
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@test.com' at line 3
+
+
+
+An Exception occoured at: 2022-01-24 04:20:26pm
+                from function: Database.php : getAllCurrentUserBorrowedBooks
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@test.com' at line 3
+
+
+
+An Exception occoured at: 2022-01-24 04:20:27pm
+                from function: Database.php : getAllCurrentUserBorrowedBooks
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@test.com' at line 3
+
+
+
+An Exception occoured at: 2022-01-24 04:21:00pm
+                from function: Database.php : getAllCurrentUserBorrowedBooks
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@test.com' at line 3
+
+
+
+An Exception occoured at: 2022-01-24 04:21:20pm
+                from function: Database.php : getAllCurrentUserBorrowedBooks
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@test.com' at line 3
+
+
+
+An Exception occoured at: 2022-01-24 04:25:43pm
+                from function: Database.php : getAllCurrentUserBorrowedBooks
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@test.com' at line 3
+
+
+
+An Exception occoured at: 2022-01-24 04:26:30pm
+                from function: Database.php : getAllCurrentUserBorrowedBooks
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@test.com' at line 3
+
+
+
+An Exception occoured at: 2022-01-24 04:26:31pm
+                from function: Database.php : getAllCurrentUserBorrowedBooks
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@test.com' at line 3
+
+
+
+An Exception occoured at: 2022-01-24 04:26:32pm
+                from function: Database.php : getAllCurrentUserBorrowedBooks
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@test.com' at line 3
+
+
+
+An Exception occoured at: 2022-01-24 04:26:48pm
+                from function: Database.php : getAllCurrentUserBorrowedBooks
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@test.com' at line 3
+
+
+
+An Exception occoured at: 2022-01-24 04:26:49pm
+                from function: Database.php : getAllCurrentUserBorrowedBooks
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@test.com' at line 3
+
+
+
+An Exception occoured at: 2022-01-24 04:26:59pm
+                from function: Database.php : getAllCurrentUserBorrowedBooks
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@test.com' at line 3
+
+
+
+An Exception occoured at: 2022-01-24 04:26:59pm
+                from function: Database.php : getAllCurrentUserBorrowedBooks
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@test.com' at line 3
+
+
+
+An Exception occoured at: 2022-01-24 04:27:00pm
+                from function: Database.php : getAllCurrentUserBorrowedBooks
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@test.com' at line 3
+
+
+
+An Exception occoured at: 2022-01-24 04:27:44pm
+                from function: Database.php : getAllCurrentUserBorrowedBooks
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@test.com' at line 3
+
+
+
+An Exception occoured at: 2022-01-24 04:28:42pm
+                from function: Database.php : getAllCurrentUserBorrowedBooks
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@test.com' at line 5
+
+
+
+An Exception occoured at: 2022-01-24 04:28:43pm
+                from function: Database.php : getAllCurrentUserBorrowedBooks
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@test.com' at line 5
+
+
+
+An Exception occoured at: 2022-01-24 04:28:48pm
+                from function: Database.php : getAllCurrentUserBorrowedBooks
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@test.com' at line 5
+
+
+
+An Exception occoured at: 2022-01-24 04:28:49pm
+                from function: Database.php : getAllCurrentUserBorrowedBooks
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@test.com' at line 5
+
+
+
+An Exception occoured at: 2022-01-24 04:29:01pm
+                from function: Database.php : getAllCurrentUserBorrowedBooks
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@test.com' at line 5
+
+
+
+An Exception occoured at: 2022-01-24 04:29:28pm
+                from function: Database.php : getAllCurrentUserBorrowedBooks
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@test.com' at line 3
+
+
+
+An Exception occoured at: 2022-01-24 04:29:29pm
+                from function: Database.php : getAllCurrentUserBorrowedBooks
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@test.com' at line 3
+
+
+
+An Exception occoured at: 2022-01-24 04:29:30pm
+                from function: Database.php : getAllCurrentUserBorrowedBooks
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@test.com' at line 3
+
+
+
+An Exception occoured at: 2022-01-24 04:29:48pm
+                from function: Database.php : getAllCurrentUserBorrowedBooks
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@test.com' at line 3
+
+
+
+An Exception occoured at: 2022-01-24 04:29:48pm
+                from function: Database.php : getAllCurrentUserBorrowedBooks
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@test.com' at line 3
+
+
+
+An Exception occoured at: 2022-01-24 04:29:49pm
+                from function: Database.php : getAllCurrentUserBorrowedBooks
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@test.com' at line 3
+
+
+
+An Exception occoured at: 2022-01-24 04:29:50pm
+                from function: Database.php : getAllCurrentUserBorrowedBooks
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@test.com' at line 3
+
+
+
+An Exception occoured at: 2022-01-24 04:29:50pm
+                from function: Database.php : getAllCurrentUserBorrowedBooks
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@test.com' at line 3
+
+
+
+An Exception occoured at: 2022-01-24 05:42:17pm
+                from function: Database.php : borrowBook
+                Information:
+                SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'testtest-test' for key 'PRIMARY'
+
+
+
+An Exception occoured at: 2022-01-24 05:44:41pm
+                from function: Database.php : getAllAvailableBooksToBorrow
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ON(book.bookName != user_book.bookName and book.author != user_book.author)' at line 3
+
+
+
+An Exception occoured at: 2022-01-24 05:51:01pm
+                from function: Database.php : getAllAvailableBooksToBorrow
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 5
+
+
+
+An Exception occoured at: 2022-01-24 05:51:02pm
+                from function: Database.php : getAllAvailableBooksToBorrow
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 5
+
+
+
+An Exception occoured at: 2022-01-24 05:52:18pm
+                from function: Database.php : getAllAvailableBooksToBorrow
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where book.bookName = user_book.bookName AND book.author = user_book.author)' at line 5
+
+
+
+An Exception occoured at: 2022-01-24 05:52:20pm
+                from function: Database.php : getAllAvailableBooksToBorrow
+                Information:
+                SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where book.bookName = user_book.bookName AND book.author = user_book.author)' at line 5
+
+
+
+An Exception occoured at: 2022-01-24 05:56:14pm
+                from function: Database.php : getAllAvailableBooksToBorrow
+                Information:
+                SQLSTATE[21000]: Cardinality violation: 1242 Subquery returns more than 1 row
+
+
+
+An Exception occoured at: 2022-01-24 05:56:19pm
+                from function: Database.php : getAllAvailableBooksToBorrow
+                Information:
+                SQLSTATE[21000]: Cardinality violation: 1242 Subquery returns more than 1 row
+
+
+
+An Exception occoured at: 2022-01-25 04:19:03pm
+                from function: Database.php : borrowBook
+                Information:
+                SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Dream of the Red Chamber-Cao Xueqin' for key 'PRIMARY'
+
+
+
+An Exception occoured at: 2022-01-25 04:19:05pm
+                from function: Database.php : borrowBook
+                Information:
+                SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'test2-test43jk' for key 'PRIMARY'
+
+
+
+An Exception occoured at: 2022-01-25 04:19:07pm
+                from function: Database.php : borrowBook
+                Information:
+                SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'test4-test543' for key 'PRIMARY'
+
+
+

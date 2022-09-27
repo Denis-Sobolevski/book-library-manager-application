@@ -1,0 +1,173 @@
+/* #region General  */
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+html {
+  font-size: 62.5%;
+  line-height: 1.5;
+}
+
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  font-family: "Itim", cursive;
+  background-image: url("../Images/body-background.jpg");
+  background-repeat: round;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  max-width: 1200px;
+  margin: 0 auto;
+  flex: 1;
+  border-left: 7px groove rgb(255, 255, 255);
+  border-right: 7px groove rgb(255, 255, 255);
+  background-color: rgb(248, 233, 233);
+  font-family: "Inter", sans-serif;
+  font-size: 2rem;
+}
+
+main > p {
+  text-align: center;
+}
+
+main div {
+  margin: 0 5rem 5rem 5rem;
+  max-height: 55vh;
+  overflow: scroll;
+}
+
+main div form {
+  border: 2px solid black;
+  margin: 1rem;
+  padding: 1.5rem;
+}
+
+main h1 {
+  padding: 2rem;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.message {
+  text-align: center;
+  padding: 1rem;
+}
+
+/* #endregion General */
+/* #region Header */
+header {
+  position: sticky;
+  border-bottom: 7px groove rgb(255, 255, 255);
+  top: 0;
+  background-color: lightblue;
+  min-height: auto;
+  padding: 1rem;
+  /* 
+    i have to z-index the header so it stays on top of the figure elements
+    when we scroll past them.
+    */
+  z-index: 100;
+}
+
+header,
+.social,
+.header-nav,
+ul {
+  display: flex;
+}
+
+.header-nav {
+  flex: 1;
+}
+
+.header-nav ul {
+  font-size: 2.55rem;
+  display: flex;
+  flex-basis: 200px;
+  justify-content: space-evenly;
+  padding: 0;
+}
+
+.header-nav a:hover,
+.header-nav a:active {
+  opacity: 0.8;
+  padding-bottom: 0.25rem;
+  border-bottom: 5px solid rgb(0, 0, 0);
+  transition: 700ms;
+}
+/* #endregion Header */
+/* #region Footer*/
+footer {
+  border-top: 7px groove rgb(255, 255, 255);
+  display: flex;
+  font-size: 2rem;
+  color: black;
+  background-color: lightblue;
+  justify-content: center;
+  padding: 1rem;
+}
+
+footer div {
+  display: flex;
+  flex-basis: 400px;
+  justify-content: space-evenly;
+}
+/* #endregion Footer*/
+/* #region Mobile-compatibility */
+@media (min-width: 2000px) {
+  body {
+    background-repeat: round;
+  }
+}
+
+@media (max-width: 720px) {
+  html {
+    font-size: 60%;
+  }
+
+  header {
+    padding: 2rem;
+  }
+
+  .header-nav a:hover {
+    border: none;
+    padding: 0;
+  }
+}
+
+@media (max-width: 650px) {
+  html {
+    font-size: 50%;
+  }
+
+  header {
+    display: grid;
+  }
+
+  footer > div > p {
+    align-self: center;
+  }
+}
+
+@media (max-width: 550px) {
+  html {
+    font-size: 40%;
+    font-weight: 600;
+  }
+}
+/* #endregion Mobile-compatibility */
+
