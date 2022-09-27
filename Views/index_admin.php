@@ -42,7 +42,7 @@
 
   <footer>
     <div>
-      <p>© Denis 2022</p>
+      <p>© Denis & Ido 2022</p>
       <p>
         <a href="http://jigsaw.w3.org/css-validator/check/referer">
           <!-- This is not an inline-style CSS that i added, the W3C certification came that way... -->
